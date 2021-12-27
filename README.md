@@ -5,4 +5,4 @@
 ###
 ### the file test.py is for testing your snakes alive
 ###
-### to train some snakes, just use run the train.py file
+### to train some snakes, just run the train.py file
